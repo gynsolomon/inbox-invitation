@@ -1,7 +1,7 @@
 inbox-invitation
 ================
 
-invitations left now : 8
+invitations left now : 7
 
 This is a repository for giving inbox invitations to those people who need it.
 
